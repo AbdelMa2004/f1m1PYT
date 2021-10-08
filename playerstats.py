@@ -1,31 +1,27 @@
-print("Name: Monkey D.Luffy ")
+Name = "Name : Monkey D. Luffy"
+bounty = 15000000000
+CrewMembers = "CrewMembers : 9"
+Gear_Second = True
+Transformation = ["SnakeMan","BounceMan", "TankMan"]
+speed = float(240.5)
+grand_fleet_captains = 7
+devil_fruit = "Gum-Gum no mi"
+boat = bool ("True")
+wanted = "Dead or Alive"
 
-print("Level: 6969 ")
-
-print("Speed: Gear 2")
-
-print("Devil Fruit: GUM-GUM no mi")
-
-print("Transformation: Gear 4: Bounce Man, Tank Man, Snake Man")
-
-print("Haki: Haoshoku ")
-
-print("Race: Human")
-
-print("Total Money: $100.000.000")
-
-print("Bounty: $1.500.000.000")
-
-print("Crew Name: Strawhat Pirates")
-
-print("Crew members: 9 ")
-
-print("Boat: Thousand Sunny")
+ 
 
 
-
+print(Name)
+print(bounty)
+print(CrewMembers)
+print(Gear_Second)
+print(Transformation)
+print(speed)
+print(grand_fleet_captains)
+print(devil_fruit)
+print(boat)
+print(wanted)
 
 
 
-
-print("")
