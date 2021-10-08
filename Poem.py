@@ -1,4 +1,4 @@
-vers1 = "ik ben Abdelhay "
+vers1 = "ik ben Abdelhay. "
 
 vers2 = "in de zee ben ik een haai. "
 
